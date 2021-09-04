@@ -5,5 +5,7 @@ University Online Library System to study based on PHP,JavaScript,HTML and CSS.n
   </head>
   <body>
     <h1>Website using HTML and CSS</h1>
+    <img src="ss1.jpg">
+    <img src="ss2.jpg">
   </body>
 </html>
